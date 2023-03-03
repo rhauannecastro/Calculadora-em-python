@@ -1,5 +1,3 @@
-# Calculadora-em-python
-calculadora feita na linguagem python(vs code)
 #importando tkinter
 
 from tkinter import*
